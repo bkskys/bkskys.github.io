@@ -532,8 +532,8 @@ footer:
         text: 主题
       # - link: https://image.anheyu.com
       #   text: 图床
-      # - link: https://beian.miit.gov.cn/
-      #   text: 湘ICP备-2025128952号
+      - link: https://beian.miit.gov.cn/
+        text: 湘ICP备-2025128952号
     subTitle:
       enable: false
       # Typewriter Effect (打字效果)
